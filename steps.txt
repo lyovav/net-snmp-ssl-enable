@@ -1,0 +1,15 @@
+1. INstall OpenSSL on disk e:
+
+E:\OpenSSL-Win32\include
+E:\OpenSSL-Win32\lib\VC
+
+2. INstall VS 2017
+
+3. Unzip net-snmp-5.9.3 on disk e:
+
+
+
+
+
+
+
