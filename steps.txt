@@ -1,5 +1,5 @@
 1. INstall OpenSSL on disk e:
-
+Download from https://slproweb.com/products/Win32OpenSSL.html
 E:\OpenSSL-Win32\include
 E:\OpenSSL-Win32\lib\VC
 
