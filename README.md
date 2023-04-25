@@ -14,6 +14,7 @@ install
 
 ![Без імені6](https://user-images.githubusercontent.com/3407229/234346963-cbfbaeb3-270e-4cfc-bb2f-0885b9dce930.jpg)
 
+![Без імені7](https://user-images.githubusercontent.com/3407229/234352206-93d9155d-0948-4f88-919a-da260ca46702.jpg)
 
 
 
