@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=za-nZNxrWkg
 1 Download OpenSSL from 
 https://slproweb.com/products/Win32OpenSSL.html
 
-Win64 OpenSSL v3.1.0  MSI  or  Win32 OpenSSL v3.1.0  MSI
+  Win32 OpenSSL v3.1.0  MSI
 
 ![Без імені](https://user-images.githubusercontent.com/3407229/234344931-5fa11092-1b14-4dba-b061-2a6ac9281c17.jpg)
 install 
