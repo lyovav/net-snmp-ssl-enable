@@ -10,11 +10,11 @@ https://slproweb.com/products/Win32OpenSSL.html
 
 ![Без імені](https://user-images.githubusercontent.com/3407229/234344931-5fa11092-1b14-4dba-b061-2a6ac9281c17.jpg)
 install 
-![Без імені5](https://user-images.githubusercontent.com/3407229/234346203-78b77628-a2ef-4fa2-a979-a1420590b0af.jpg)
+![Без імені7](https://user-images.githubusercontent.com/3407229/234352206-93d9155d-0948-4f88-919a-da260ca46702.jpg)
 
 ![Без імені6](https://user-images.githubusercontent.com/3407229/234346963-cbfbaeb3-270e-4cfc-bb2f-0885b9dce930.jpg)
 
-![Без імені7](https://user-images.githubusercontent.com/3407229/234352206-93d9155d-0948-4f88-919a-da260ca46702.jpg)
+
 
 
 
