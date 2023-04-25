@@ -10,13 +10,13 @@ Win64 OpenSSL v3.1.0  MSI  or  Win32 OpenSSL v3.1.0  MSI
 
 ![Без імені](https://user-images.githubusercontent.com/3407229/234344931-5fa11092-1b14-4dba-b061-2a6ac9281c17.jpg)
 install 
-
+![Без імені5](https://user-images.githubusercontent.com/3407229/234346203-78b77628-a2ef-4fa2-a979-a1420590b0af.jpg)
 
 ![Без імені6](https://user-images.githubusercontent.com/3407229/234346963-cbfbaeb3-270e-4cfc-bb2f-0885b9dce930.jpg)
 
 
 
-![Без імені5](https://user-images.githubusercontent.com/3407229/234346203-78b77628-a2ef-4fa2-a979-a1420590b0af.jpg)
+
 
 
 2  configure folders
