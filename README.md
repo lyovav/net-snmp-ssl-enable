@@ -10,6 +10,7 @@ Win64 OpenSSL v3.1.0  MSI
 
 ![Без імені](https://user-images.githubusercontent.com/3407229/234344931-5fa11092-1b14-4dba-b061-2a6ac9281c17.jpg)
 
+configure folders
 
 ![Без імені2](https://user-images.githubusercontent.com/3407229/234344979-49aa26b7-0cec-400c-a814-3a150c132f34.jpg)
 
