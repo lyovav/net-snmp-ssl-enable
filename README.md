@@ -8,6 +8,8 @@ https://slproweb.com/products/Win32OpenSSL.html
 
   Use only!!! Win32 OpenSSL v3.1.0  MSI
 
+  or latest Win32 OpenSSL v3.3.2 EXE
+
 ![Без імені](https://user-images.githubusercontent.com/3407229/234344931-5fa11092-1b14-4dba-b061-2a6ac9281c17.jpg)
 install 
 ![Без імені7](https://user-images.githubusercontent.com/3407229/234352206-93d9155d-0948-4f88-919a-da260ca46702.jpg)
